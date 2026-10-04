@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "reference.html",
+    "href": "reference.html",
+    "title": "DSAI Lab Project Docs",
+    "section": "",
+    "text": "Note: The following are some example problem statements for reference only. Discuss with your group and come up with a problem statement that you would be enthusiastic to work on."
+  },
+  {
+    "objectID": "reference.html#example-problem-statements",
+    "href": "reference.html#example-problem-statements",
+    "title": "DSAI Lab Project Docs",
+    "section": "",
+    "text": "Note: The following are some example problem statements for reference only. Discuss with your group and come up with a problem statement that you would be enthusiastic to work on."
+  },
+  {
+    "objectID": "reference.html#problem-statement-1-dl-vision",
+    "href": "reference.html#problem-statement-1-dl-vision",
+    "title": "DSAI Lab Project Docs",
+    "section": "Problem Statement 1 — DL; Vision",
+    "text": "Problem Statement 1 — DL; Vision\nCrop yield improvement, pest and disease control, and cost reduction are major challenges in agriculture, especially in developing countries. Manual identification of crop diseases is time-consuming and requires expert knowledge.\nThis project aims to develop a deep learning model for automated detection and classification of crop pests and diseases using the Crop Pest and Disease Detection Dataset (Mendeley Data, DOI: 10.17632/bwh3zbpkpv.1).\nThe dataset contains approximately 24k raw images and 100k augmented images across four crops:\n\nCashew\nCassava\nMaize\nTomato\n\nThe dataset contains 22 classes of healthy and diseased conditions. Images were captured under varying backgrounds and lighting conditions and validated by expert plant virologists.\nDataset: https://data.mendeley.com/datasets/bwh3zbpkpv/1"
+  },
+  {
+    "objectID": "reference.html#problem-statement-2-dl-vision-speech-nlp",
+    "href": "reference.html#problem-statement-2-dl-vision-speech-nlp",
+    "title": "DSAI Lab Project Docs",
+    "section": "Problem Statement 2 — DL; Vision; Speech; NLP",
+    "text": "Problem Statement 2 — DL; Vision; Speech; NLP\nCommunication between individuals with hearing or speech impairments and the general population is often limited due to the lack of widespread understanding of sign language. This creates barriers in education, employment, and daily social interaction.\nThe proposed project aims to develop a real-time sign language interpretation system that takes input directly from a camera, recognizes hand gestures and movements, and converts them into text.\nThe generated text will then be transformed into speech using Text-to-Speech (TTS) technology.\nThis system will bridge the communication gap by enabling seamless interaction between sign language users and non-sign language speakers."
+  },
+  {
+    "objectID": "reference.html#problem-statement-3-dl-genai-nlp",
+    "href": "reference.html#problem-statement-3-dl-genai-nlp",
+    "title": "DSAI Lab Project Docs",
+    "section": "Problem Statement 3 — DL; GenAI; NLP",
+    "text": "Problem Statement 3 — DL; GenAI; NLP\nOrganizations often store critical knowledge across documents and webpages, making it difficult for users to quickly find precise answers. Conventional search methods return entire documents or irrelevant results, requiring manual effort to extract useful information.\nThis project aims to develop a multilingual chatbot that can ingest documents and webpages as data sources and provide accurate, context-aware answers to user queries.\nThe chatbot should support multiple languages, enabling broader accessibility and usability.\nBy combining natural language processing, information retrieval, and multilingual understanding, the system will allow users to interact with complex data in a conversational manner, reducing search time and improving knowledge accessibility."
+  },
+  {
+    "objectID": "reference.html#previous-term-example-problem-statements",
+    "href": "reference.html#previous-term-example-problem-statements",
+    "title": "DSAI Lab Project Docs",
+    "section": "Previous Term — Example Problem Statements",
+    "text": "Previous Term — Example Problem Statements\nThe following are a few example problem statements that groups from the previous term came up with.\nThe repository link is provided for the first problem statement. These examples are provided for reference purposes only and should not be considered the definitive guideline for your project."
+  },
+  {
+    "objectID": "reference.html#problem-statement-1",
+    "href": "reference.html#problem-statement-1",
+    "title": "DSAI Lab Project Docs",
+    "section": "Problem Statement 1",
+    "text": "Problem Statement 1\nOnline recruitment fraud costs job seekers millions annually through advance-fee scams, phishing, and identity theft.\nThis project delivers an end-to-end AI system that combines:\n\nA fully fine-tuned RoBERTa-base transformer with 125M parameters\nFocal Loss for training\nThe EMSCAD dataset, containing 17,880 job postings\nA 12-tool agentic verification pipeline that cross-checks:\n\nCompany domains\nEmail addresses\nPhone numbers\nWeb presence in real time\n\n\nThe model achieves:\n\nROC-AUC: 0.993\nFraud-class precision: 0.957\n\nThe system is accessible through a Flask web application and a Chrome extension that works directly on LinkedIn job pages.\nRepository: https://github.com/hrmiitm/Group-9-DS-and-AI-Lab-Project"
+  },
+  {
+    "objectID": "reference.html#problem-statement-2",
+    "href": "reference.html#problem-statement-2",
+    "title": "DSAI Lab Project Docs",
+    "section": "Problem Statement 2",
+    "text": "Problem Statement 2\nVisually impaired individuals navigating indoor environments often rely on assistive technologies that announce detected objects. However, object identification alone does not indicate whether an obstacle lies directly in the user’s walking path or requires an immediate change in movement.\nHearing “chair detected” does not inform the user whether they are about to collide with it or can safely continue forward.\nThis project focuses on action-oriented indoor navigation assistance, where visual perception is converted into movement guidance rather than descriptive awareness.\nInstead of simply reporting detected objects, the system provides directional instructions such as:\n\n“Move Left”\n“Move Right”\n\nwhen obstacles pose a risk to the user’s path."
+  },
+  {
+    "objectID": "reference.html#problem-statement-3",
+    "href": "reference.html#problem-statement-3",
+    "title": "DSAI Lab Project Docs",
+    "section": "Problem Statement 3",
+    "text": "Problem Statement 3\nThis project builds a multimodal AI assistant for crop disease support in Indian farming contexts.\nThe system combines:\n\nCrop leaf image classification\nRetrieval-based agricultural guidance\nMultilingual interaction through text and voice\n\nThe system is designed around five major crops:\n\nCorn\nPotato\nRice\nWheat\nSugarcane\n\nA farmer can upload a leaf image, ask a question, and receive grounded guidance based on the detected crop disease."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Project Guidelines",
+    "section": "",
+    "text": "Each group must consist of 5 members.\nStudents are encouraged to form their own groups.\nA Google Form will be provided to update group details.\nStudents who do not register as part of a group will be randomly assigned to groups.\n\n\n\n\n\nEach group must propose their own project idea, which must be based on Deep Learning or Generative AI.\nThe problem statement must be submitted for approval by the course team.\nDeadline:\n\n\n\n\nThe project will be evaluated out of 40 marks.\nEvaluation will be based on:\n\nMilestone Completion — 15 marks\n\nAwarded based on successful completion of the six milestones.\n\nNovelty/Complexity of the Project — 5 marks\n\nBased on originality and the technical expertise required.\n\nFinal Project Presentation — 20 marks\n\nBased on clarity, technical understanding, and demonstration.\n\n\n\n\n\nThe project will be divided into milestones, with progress tracked during mandatory weekly meetings with TAs. Detailed requirements for each milestone will be communicated in advance.\nEach milestone review meeting will require a technical presentation using slides.\nEach milestone submission must include:\n\nA detailed document outlining the work completed\nPresentation slides\nCode relevant to the submission\n\nThe evaluation will be based on:\n\nIndividual contribution\nQuestions answered\nMeeting requirements\nQuality of the submission\n\nThe evaluation will include components that are graded individually and as a team.\n\n\n\nDefine the objectives of the project.\nReview existing solutions, baselines, and benchmarks.\nIdentify gaps and opportunities.\n\n\n\n\n\nCollect or identify a suitable dataset.\nPrepare and preprocess data for training and validation.\n\n\n\n\n\nSelect or design appropriate model architecture(s).\nJustify the choice of architecture.\nSet up the complete end-to-end pipeline.\n\n\n\n\n\nTrain initial models.\nExperiment with:\n\nHyperparameters\nOptimization methods\nRegularization techniques\n\n\n\n\n\n\nEvaluate trained models using appropriate metrics.\nProvide error analysis.\nDiscuss limitations and possible improvements.\n\n\n\n\n\nDeploy the model using one of the following:\n\nAPI\nDemo interface\nHugging Face Spaces\n\nPrepare comprehensive documentation.\nFinalize the project report.\n\n\n\n\n\n\nFinal project presentations will take place during Week 10 & Week 11, starting ****.\nThe final presentation is expected to include:\n\nLive demonstration\nCode walkthrough\nPresentation of the project report\n\nFurther details will be shared in due time.\n\n\n\n\n\nStudents should maintain a GitHub repository containing:\n\nTraining scripts\nInference notebooks\nDocumentation\nA worklog file updated each week with individual contributions\n\nCode should be:\n\nModular\nReadable\nWell-organised\n\nResults obtained should be reproducible."
+  },
+  {
+    "objectID": "guidelines.html#group-formation",
+    "href": "guidelines.html#group-formation",
+    "title": "Project Guidelines",
+    "section": "",
+    "text": "Each group must consist of 5 members.\nStudents are encouraged to form their own groups.\nA Google Form will be provided to update group details.\nStudents who do not register as part of a group will be randomly assigned to groups."
+  },
+  {
+    "objectID": "guidelines.html#problem-statement",
+    "href": "guidelines.html#problem-statement",
+    "title": "Project Guidelines",
+    "section": "",
+    "text": "Each group must propose their own project idea, which must be based on Deep Learning or Generative AI.\nThe problem statement must be submitted for approval by the course team.\nDeadline:"
+  },
+  {
+    "objectID": "guidelines.html#project-evaluation",
+    "href": "guidelines.html#project-evaluation",
+    "title": "Project Guidelines",
+    "section": "",
+    "text": "The project will be evaluated out of 40 marks.\nEvaluation will be based on:\n\nMilestone Completion — 15 marks\n\nAwarded based on successful completion of the six milestones.\n\nNovelty/Complexity of the Project — 5 marks\n\nBased on originality and the technical expertise required.\n\nFinal Project Presentation — 20 marks\n\nBased on clarity, technical understanding, and demonstration."
+  },
+  {
+    "objectID": "guidelines.html#milestones",
+    "href": "guidelines.html#milestones",
+    "title": "Project Guidelines",
+    "section": "",
+    "text": "The project will be divided into milestones, with progress tracked during mandatory weekly meetings with TAs. Detailed requirements for each milestone will be communicated in advance.\nEach milestone review meeting will require a technical presentation using slides.\nEach milestone submission must include:\n\nA detailed document outlining the work completed\nPresentation slides\nCode relevant to the submission\n\nThe evaluation will be based on:\n\nIndividual contribution\nQuestions answered\nMeeting requirements\nQuality of the submission\n\nThe evaluation will include components that are graded individually and as a team.\n\n\n\nDefine the objectives of the project.\nReview existing solutions, baselines, and benchmarks.\nIdentify gaps and opportunities.\n\n\n\n\n\nCollect or identify a suitable dataset.\nPrepare and preprocess data for training and validation.\n\n\n\n\n\nSelect or design appropriate model architecture(s).\nJustify the choice of architecture.\nSet up the complete end-to-end pipeline.\n\n\n\n\n\nTrain initial models.\nExperiment with:\n\nHyperparameters\nOptimization methods\nRegularization techniques\n\n\n\n\n\n\nEvaluate trained models using appropriate metrics.\nProvide error analysis.\nDiscuss limitations and possible improvements.\n\n\n\n\n\nDeploy the model using one of the following:\n\nAPI\nDemo interface\nHugging Face Spaces\n\nPrepare comprehensive documentation.\nFinalize the project report."
+  },
+  {
+    "objectID": "guidelines.html#project-presentations",
+    "href": "guidelines.html#project-presentations",
+    "title": "Project Guidelines",
+    "section": "",
+    "text": "Final project presentations will take place during Week 10 & Week 11, starting ****.\nThe final presentation is expected to include:\n\nLive demonstration\nCode walkthrough\nPresentation of the project report\n\nFurther details will be shared in due time."
+  },
+  {
+    "objectID": "guidelines.html#project-considerations",
+    "href": "guidelines.html#project-considerations",
+    "title": "Project Guidelines",
+    "section": "",
+    "text": "Students should maintain a GitHub repository containing:\n\nTraining scripts\nInference notebooks\nDocumentation\nA worklog file updated each week with individual contributions\n\nCode should be:\n\nModular\nReadable\nWell-organised\n\nResults obtained should be reproducible."
+  },
+  {
+    "objectID": "milestones.html",
+    "href": "milestones.html",
+    "title": "Milestones",
+    "section": "",
+    "text": "Deadline:\nThe requirements of Milestone 1 include defining the problem statement clearly and identifying gaps and opportunities by studying current solutions.\n\n\n\nClearly and concisely describe the problem your project intends to solve.\nDefine the scope and boundaries of the project.\nIdentify the relevant stakeholders.\nState the objectives of the project. Ensure they are measurable and aligned with the problem statement.\n\n\n\n\n\nResearch and review current solutions, tools, and academic work related to your problem.\nAnalyze the strengths and weaknesses of current approaches. Compare these with your approach and highlight key differences.\nInclude performance benchmarks, industry standards, baseline models, and evaluation metrics, as applicable.\nInclude references from credible sources in the submission.\n\n\n\n\n\nThe submission should be completed in Markdown format and uploaded to the GitHub repository.\nA detailed file tracking the work completed by each team member should be included. This file must be updated with every milestone submission.\n\nA milestone review meeting will be held after the submission. During this meeting, the group is expected to present their work in detail using slides.\nThe respective TAs for each group will reach out to finalize the time slot for the milestone review meetings.\nIf you have any questions, feel free to reach out in the group chat space.\n\n\n\n\nDeadline:\nThe requirements of Milestone 2 include identifying (or creating) the dataset and preparing it for ingestion into the model pipeline.\nThe objective is to ensure that the data is well-understood, reliable, ethically sourced, and suitably structured for the selected problem.\n\n\nThe submission should address the following aspects, as applicable to the project type:\n\nClearly identify and verify data sources.\nSpecify the ownership, format, and usage constraints of the data.\nProvide a detailed description of the dataset, including:\n\nDataset size\nFeature distribution\nRelevant data characteristics\n\nAssess dataset quality, accounting for:\n\nMissing values\nInconsistencies\nNoise\nDuplicate entries\n\nEvaluate whether the dataset is adequate for the chosen problem.\nExplore options such as data augmentation or expansion through supplementary datasets where necessary.\n\n\n\n\n\nClearly define the strategy used to create the training, validation, and test datasets.\nEnsure there is no data leakage by checking for overlap across the different splits.\n\n\n\n\nIf a synthetic dataset is generated:\n\nProvide details of the generation process.\nExplain and justify the design choices made.\n\n\n\n\nFor models involving subtasks that require different datasets:\n\nClearly explain how connections or alignment between the datasets and tasks will be established.\n\n\n\n\nIdentify the key dataset requirements necessary for effective model training.\n\n\n\nSpecify labeling and annotation requirements.\nVerify the quality and consistency of annotations.\n\n\n\n\n\nDescribe document preparation steps.\nExplore appropriate chunking strategies.\nExplore suitable vector database options.\n\n\n\n\nAddress:\n\nAudio quality\nTranscription alignment\nSampling consistency\n\n\n\n\nAddress:\n\nDataset formatting, such as instruction-response structures\nToken length considerations\nPrompt structuring requirements\n\n\n\n\n\nDocument all preprocessing and data preparation steps to ensure that the process is reproducible.\n\n\n\n\nDeadline:\nThe requirements of Milestone 3 include the design and justification of the model architecture.\nThe milestone should also verify the complete end-to-end pipeline by running a subset of the data to confirm that all components work together correctly.\n\n\nThe submission should address the following aspects, as applicable to the project type:\n\nExplain how the dataset is organized.\nShowcase the directory structure for:\n\nRaw data\nProcessed data\nTraining split\nValidation split\nTest split\n\nProvide a detailed description of the preprocessing steps applied to the dataset before training.\n\nExamples include:\n\nResizing\nNormalization\nTokenization\nOther task-specific preprocessing\n\n\n\n\n\nProvide a clear description of the architecture, highlighting the major components of the network and their interactions.\nUse a diagram to illustrate the data flow from raw input to final model output.\nExplain how the processed data matches the expected input format of the model.\n\nThis should include, as applicable:\n\nInput shapes\nTensor formats\nToken lengths\nEmbedding structures\nOther architecture-specific input requirements\n\n\n\n\n\nExplain why the chosen architecture is suitable for the problem.\nDiscuss the key strengths and limitations of the model.\nCompare the chosen architecture with other relevant approaches.\n\n\n\n\n\nImplement a small-scale pipeline by passing a subset of the dataset through the complete workflow.\nThe purpose is to verify that all components of the pipeline work together correctly.\nProvide examples of the model outputs.\n\n\n\n\n\nState the loss functions used.\nState the evaluation metrics used to measure model performance.\n\n\n\n\n\nDeadline:\nThe requirements of Milestone 4 include training the models and experimenting with different hyperparameters, optimization strategies, and regularization techniques.\n\n\nThe submission should address the following, as applicable to the project type:\n\nBriefly describe the datasets used and the necessary preprocessing.\nProvide a concise recap of the model architecture, including key components and layers.\nSpecify the complete training configuration, which may include:\n\nLoss functions\nEvaluation metrics\nOptimizer\nLearning rate\nBatch size\nNumber of epochs\nHardware requirements\nOther training strategies employed\n\n\n\n\n\n\nDescribe the experiments conducted to identify appropriate hyperparameter values.\nUse tables or plots to compare performance across different settings.\n\n\n\n\n\nDescribe the techniques used to improve:\n\nGeneralization\nTraining stability\n\nDiscuss the impact of these techniques on model performance.\n\n\n\n\n\nProvide quantitative and qualitative results.\nInclude other relevant observations made during the training process.\nInclude sample outputs from the trained model.\n\n\n\n\nList the artifacts generated during training, such as:\n\nSaved model weights\nCheckpoints\nTraining scripts\nLogs\nConfiguration files\nOther relevant artifacts\n\n\n\n\nDiscuss key findings from the training process, including:\n\nWhat worked well\nWhat did not perform as expected\nBottlenecks encountered\nPlans for improvement\n\n\n\n\n\nDeadline:\nThe objective of Milestone 5 is the evaluation of model performance and analysis of results.\n\n\nThe submission should address the following, as applicable to the project type:\n\nBriefly restate the trained model and pipeline from the previous milestone.\nDescribe the evaluation dataset, including:\n\nSize\nComposition\nPreprocessing steps applied during evaluation\n\nSpecify the evaluation environment, including:\n\nHardware\nSoftware frameworks\nRuntime setup\n\n\nThe evaluation environment should be documented sufficiently to ensure reproducibility.\n\n\n\n\nDefine the performance metrics used for evaluation.\nJustify why the selected metrics are appropriate for the given problem.\n\n\n\n\n\nPresent quantitative results using appropriate tables or plots.\nInclude comparisons across:\n\nDifferent models\nDifferent configurations\nDifferent hyperparameter settings\n\n\n\n\n\nInclude relevant visualizations where applicable, such as:\n\nConfusion matrices\nROC curves\nPrecision-recall curves\nTask-specific evaluation plots\n\n\n\n\n\nShow sample model outputs.\nInclude both:\n\nSuccessful predictions\nFailure cases\n\n\n\n\n\n\nPerform an error analysis by identifying patterns in model mistakes.\nDiscuss possible reasons for these errors.\nIdentify cases where the model performs particularly well or poorly.\n\n\n\n\nDiscuss:\n\nKey observations\nModel limitations\nAnomalies observed during evaluation\nGaps between expected and actual performance\nPotential explanations for unexpected results"
+  },
+  {
+    "objectID": "milestones.html#milestone-1",
+    "href": "milestones.html#milestone-1",
+    "title": "Milestones",
+    "section": "",
+    "text": "Deadline:\nThe requirements of Milestone 1 include defining the problem statement clearly and identifying gaps and opportunities by studying current solutions.\n\n\n\nClearly and concisely describe the problem your project intends to solve.\nDefine the scope and boundaries of the project.\nIdentify the relevant stakeholders.\nState the objectives of the project. Ensure they are measurable and aligned with the problem statement.\n\n\n\n\n\nResearch and review current solutions, tools, and academic work related to your problem.\nAnalyze the strengths and weaknesses of current approaches. Compare these with your approach and highlight key differences.\nInclude performance benchmarks, industry standards, baseline models, and evaluation metrics, as applicable.\nInclude references from credible sources in the submission.\n\n\n\n\n\nThe submission should be completed in Markdown format and uploaded to the GitHub repository.\nA detailed file tracking the work completed by each team member should be included. This file must be updated with every milestone submission.\n\nA milestone review meeting will be held after the submission. During this meeting, the group is expected to present their work in detail using slides.\nThe respective TAs for each group will reach out to finalize the time slot for the milestone review meetings.\nIf you have any questions, feel free to reach out in the group chat space."
+  },
+  {
+    "objectID": "milestones.html#milestone-2",
+    "href": "milestones.html#milestone-2",
+    "title": "Milestones",
+    "section": "",
+    "text": "Deadline:\nThe requirements of Milestone 2 include identifying (or creating) the dataset and preparing it for ingestion into the model pipeline.\nThe objective is to ensure that the data is well-understood, reliable, ethically sourced, and suitably structured for the selected problem.\n\n\nThe submission should address the following aspects, as applicable to the project type:\n\nClearly identify and verify data sources.\nSpecify the ownership, format, and usage constraints of the data.\nProvide a detailed description of the dataset, including:\n\nDataset size\nFeature distribution\nRelevant data characteristics\n\nAssess dataset quality, accounting for:\n\nMissing values\nInconsistencies\nNoise\nDuplicate entries\n\nEvaluate whether the dataset is adequate for the chosen problem.\nExplore options such as data augmentation or expansion through supplementary datasets where necessary.\n\n\n\n\n\nClearly define the strategy used to create the training, validation, and test datasets.\nEnsure there is no data leakage by checking for overlap across the different splits.\n\n\n\n\nIf a synthetic dataset is generated:\n\nProvide details of the generation process.\nExplain and justify the design choices made.\n\n\n\n\nFor models involving subtasks that require different datasets:\n\nClearly explain how connections or alignment between the datasets and tasks will be established.\n\n\n\n\nIdentify the key dataset requirements necessary for effective model training.\n\n\n\nSpecify labeling and annotation requirements.\nVerify the quality and consistency of annotations.\n\n\n\n\n\nDescribe document preparation steps.\nExplore appropriate chunking strategies.\nExplore suitable vector database options.\n\n\n\n\nAddress:\n\nAudio quality\nTranscription alignment\nSampling consistency\n\n\n\n\nAddress:\n\nDataset formatting, such as instruction-response structures\nToken length considerations\nPrompt structuring requirements\n\n\n\n\n\nDocument all preprocessing and data preparation steps to ensure that the process is reproducible."
+  },
+  {
+    "objectID": "milestones.html#milestone-3",
+    "href": "milestones.html#milestone-3",
+    "title": "Milestones",
+    "section": "",
+    "text": "Deadline:\nThe requirements of Milestone 3 include the design and justification of the model architecture.\nThe milestone should also verify the complete end-to-end pipeline by running a subset of the data to confirm that all components work together correctly.\n\n\nThe submission should address the following aspects, as applicable to the project type:\n\nExplain how the dataset is organized.\nShowcase the directory structure for:\n\nRaw data\nProcessed data\nTraining split\nValidation split\nTest split\n\nProvide a detailed description of the preprocessing steps applied to the dataset before training.\n\nExamples include:\n\nResizing\nNormalization\nTokenization\nOther task-specific preprocessing\n\n\n\n\n\nProvide a clear description of the architecture, highlighting the major components of the network and their interactions.\nUse a diagram to illustrate the data flow from raw input to final model output.\nExplain how the processed data matches the expected input format of the model.\n\nThis should include, as applicable:\n\nInput shapes\nTensor formats\nToken lengths\nEmbedding structures\nOther architecture-specific input requirements\n\n\n\n\n\nExplain why the chosen architecture is suitable for the problem.\nDiscuss the key strengths and limitations of the model.\nCompare the chosen architecture with other relevant approaches.\n\n\n\n\n\nImplement a small-scale pipeline by passing a subset of the dataset through the complete workflow.\nThe purpose is to verify that all components of the pipeline work together correctly.\nProvide examples of the model outputs.\n\n\n\n\n\nState the loss functions used.\nState the evaluation metrics used to measure model performance."
+  },
+  {
+    "objectID": "milestones.html#milestone-4",
+    "href": "milestones.html#milestone-4",
+    "title": "Milestones",
+    "section": "",
+    "text": "Deadline:\nThe requirements of Milestone 4 include training the models and experimenting with different hyperparameters, optimization strategies, and regularization techniques.\n\n\nThe submission should address the following, as applicable to the project type:\n\nBriefly describe the datasets used and the necessary preprocessing.\nProvide a concise recap of the model architecture, including key components and layers.\nSpecify the complete training configuration, which may include:\n\nLoss functions\nEvaluation metrics\nOptimizer\nLearning rate\nBatch size\nNumber of epochs\nHardware requirements\nOther training strategies employed\n\n\n\n\n\n\nDescribe the experiments conducted to identify appropriate hyperparameter values.\nUse tables or plots to compare performance across different settings.\n\n\n\n\n\nDescribe the techniques used to improve:\n\nGeneralization\nTraining stability\n\nDiscuss the impact of these techniques on model performance.\n\n\n\n\n\nProvide quantitative and qualitative results.\nInclude other relevant observations made during the training process.\nInclude sample outputs from the trained model.\n\n\n\n\nList the artifacts generated during training, such as:\n\nSaved model weights\nCheckpoints\nTraining scripts\nLogs\nConfiguration files\nOther relevant artifacts\n\n\n\n\nDiscuss key findings from the training process, including:\n\nWhat worked well\nWhat did not perform as expected\nBottlenecks encountered\nPlans for improvement"
+  },
+  {
+    "objectID": "milestones.html#milestone-5",
+    "href": "milestones.html#milestone-5",
+    "title": "Milestones",
+    "section": "",
+    "text": "Deadline:\nThe objective of Milestone 5 is the evaluation of model performance and analysis of results.\n\n\nThe submission should address the following, as applicable to the project type:\n\nBriefly restate the trained model and pipeline from the previous milestone.\nDescribe the evaluation dataset, including:\n\nSize\nComposition\nPreprocessing steps applied during evaluation\n\nSpecify the evaluation environment, including:\n\nHardware\nSoftware frameworks\nRuntime setup\n\n\nThe evaluation environment should be documented sufficiently to ensure reproducibility.\n\n\n\n\nDefine the performance metrics used for evaluation.\nJustify why the selected metrics are appropriate for the given problem.\n\n\n\n\n\nPresent quantitative results using appropriate tables or plots.\nInclude comparisons across:\n\nDifferent models\nDifferent configurations\nDifferent hyperparameter settings\n\n\n\n\n\nInclude relevant visualizations where applicable, such as:\n\nConfusion matrices\nROC curves\nPrecision-recall curves\nTask-specific evaluation plots\n\n\n\n\n\nShow sample model outputs.\nInclude both:\n\nSuccessful predictions\nFailure cases\n\n\n\n\n\n\nPerform an error analysis by identifying patterns in model mistakes.\nDiscuss possible reasons for these errors.\nIdentify cases where the model performs particularly well or poorly.\n\n\n\n\nDiscuss:\n\nKey observations\nModel limitations\nAnomalies observed during evaluation\nGaps between expected and actual performance\nPotential explanations for unexpected results"
+  }
+]
