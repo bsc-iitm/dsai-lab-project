@@ -70,6 +70,34 @@
     "text": "The DSAI Lab Course project is a group project that requires students to work on an end-to-end Deep Learning or Generative AI problem, from problem formulation and data sourcing to deployment. The project is broken down into structured milestones and evaluated at regular intervals through required technical presentations. Accounting for 40 marks of the total course score, the evaluation will assess both individual contributions and overall group performance."
   },
   {
+    "objectID": "ai_policy.html",
+    "href": "ai_policy.html",
+    "title": "Policy on Fair and Responsible use of AI & LLMs",
+    "section": "",
+    "text": "AI tools may supplement learning and accelerate development, but must never substitute for the team’s understanding, critical thinking, experimentation or ownership of the project."
+  },
+  {
+    "objectID": "ai_policy.html#fair-use-of-ai-llms",
+    "href": "ai_policy.html#fair-use-of-ai-llms",
+    "title": "Policy on Fair and Responsible use of AI & LLMs",
+    "section": "Fair Use of AI & LLMs",
+    "text": "Fair Use of AI & LLMs\n\nPermitted use: Teams may use LLMs to supplement their learning, clarify concepts, explore alternative approaches, generate ideas, and assist with debugging.\nOwnership: The core implementation, experimentation, evaluation, and conclusions must reflect the team’s own understanding and effort.\nValidation: All AI-generated code or content must be thoroughly reviewed, validated and adapted.\nAssessment: While the assessment will evaluate the quality of the deliverable, it will also check the team’s demonstrated understanding and individual competence. Team members must be prepared to independently explain, justify, debug and modify their submitted work."
+  },
+  {
+    "objectID": "ai_policy.html#restrictions-use-of-ai-agents-in-github-project-repositories",
+    "href": "ai_policy.html#restrictions-use-of-ai-agents-in-github-project-repositories",
+    "title": "Policy on Fair and Responsible use of AI & LLMs",
+    "section": "Restrictions & use of AI Agents in GitHub Project Repositories",
+    "text": "Restrictions & use of AI Agents in GitHub Project Repositories\n\nProhibited: Teams must not use autonomous AI agents or AI-powered tools to perform direct project operations in GitHub. This includes:\n\nCreating, modifying, or deleting files\nCommitting or pushing code\nCreating, reviewing, approving, or merging pull requests\nRaising or closing issues\nModifying project boards, workflows, or repository settings\nGenerating or updating project reports and documentation directly within the repository.\n\nManual Execution: While AI may advise on Git commands, diagnose errors or recommend workflows, team members must understand, evaluate, and manually execute all GitHub operations themselves.\nPermitted: Routine, predefined automation, such as GitHub Actions running continuous integration (CI/CD) tests or linters, are permitted."
+  },
+  {
+    "objectID": "ai_policy.html#ai-llm-usage-disclosure",
+    "href": "ai_policy.html#ai-llm-usage-disclosure",
+    "title": "Policy on Fair and Responsible use of AI & LLMs",
+    "section": "AI & LLM Usage Disclosure",
+    "text": "AI & LLM Usage Disclosure\n\n1. AI Tools Utilized\nList all GenAI/LLM tools that materially contributed to the project. For each tool, provide:\n\nTool Name:\nPurpose of Use: (Concepts, design, coding, debugging, data preparation, experimentation, analysis, documentation, etc.)\nShared Chat Link / Conversation File: (Where available)\nContribution and Validation: Briefly describe how the output was used, verified, modified, or independently implemented by the team.\n\n\n\n2. Significant Prompts and Responses\nDocument significant AI interactions that influenced the project’s design, implementation, experiments, analysis, or conclusions. For each interaction, provide:\n\nTool Name and Problem Addressed:\nPrompt(s): The key prompts used.\nRelevant Response(s): The portions that materially contributed to the work.\nAction Taken: How the team evaluated, adapted, tested, or rejected the suggestions.\n\n(Note: Provide a shareable conversation link wherever available. Otherwise, include the relevant prompt-response excerpts. Complete conversation logs are not required unless specifically requested.)\n\n\n3. Team Accountability Declaration\nThe disclosure must include a confirmation that:\n\nAll AI-generated code, content, and recommendations incorporated into the project have been reviewed and appropriately validated by the team.\nProject decisions, experimental results, and conclusions are supported by the team’s independent reasoning and evidence.\nEvery team member understands their contributions and can explain and defend the relevant work independently."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
